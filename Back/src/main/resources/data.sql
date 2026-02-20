@@ -1,0 +1,3 @@
+INSERT IGNORE INTO papeis (id, nome) VALUES (1, 'ADMIN');
+INSERT IGNORE INTO papeis (id, nome) VALUES (2, 'GERENTE');
+INSERT IGNORE INTO papeis (id, nome) VALUES (3, 'DESENVOLVEDOR');
